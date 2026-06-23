@@ -140,26 +140,8 @@ This approach reduces typos, improves readability, and mirrors how production sc
 
 ---
 
-## 📁 Project Structure
-
-```
-azure-vm-provisioning/
-│
-├── README.md          # This file
-└── scripts/
-    └── create-vm.ps1  # (Optional) Parameterized VM creation script
-```
-
----
-
 ## 🔗 References
 
 - [Azure Cloud Shell Overview](https://learn.microsoft.com/en-us/azure/cloud-shell/overview)
 - [Quickstart: Create a Windows VM with PowerShell](https://learn.microsoft.com/en-us/azure/virtual-machines/windows/quick-create-powershell)
 - [Az PowerShell Module Reference](https://learn.microsoft.com/en-us/powershell/azure/)
-
----
-
-## 👤 Author
-
-Built as part of a hands-on Azure cloud engineering portfolio. This lab targets foundational IaaS skills that underpin larger infrastructure automation workflows.
